@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving)
+
 Hello, friends!
 I'm Yeongdong
 I am excited to meet you guys in this good place so expect how SSAFY life will be alike. 
